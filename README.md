@@ -18,3 +18,14 @@ This phase helps ensure that the final product meets business objectives and use
 3. **Foundation for Design**: Provides the necessary information for architects and developers to create appropriate technical solutions.
 4. **Facilitates Accurate Estimation**: Helps project managers create more realistic timelines and budgets.
 5. **Improves Quality**: Clear requirements lead to better testing criteria and higher quality end products.
+## Key Activities in Requirement Analysis
+
+- **Requirement Gathering**: Collecting all possible requirements from stakeholders through interviews, surveys, and workshops.
+  
+- **Requirement Elicitation**: Extracting hidden or unstated needs through techniques like prototyping and user observation.
+
+- **Requirement Documentation**: Creating clear, unambiguous requirement documents like Software Requirement Specifications (SRS).
+
+- **Requirement Analysis and Modeling**: Using tools like use case diagrams, flowcharts, and entity-relationship diagrams to represent requirements visually.
+
+- **Requirement Validation**: Ensuring requirements are complete, consistent, and achievable through reviews and prototyping.
