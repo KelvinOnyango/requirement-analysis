@@ -79,3 +79,16 @@ This diagram shows the key interactions in our booking system:
 - Cancel Booking
 - Process Payment
 - Manage Users
+
+  ## Acceptance Criteria
+
+Acceptance criteria define the conditions that must be met for a feature to be considered complete. They serve as:
+- Test cases for QA teams
+- Completion guidelines for developers
+- Verification points for stakeholders
+
+**Example for Checkout Feature**:
+1. Given a user has selected items to book, when they proceed to checkout, then they should see a summary of their selections.
+2. Given a user is at checkout, when they enter valid payment details, then the system should process payment and display a confirmation.
+3. Given payment fails, when the user retries with correct details, then the system should complete the booking.
+4. Given a successful booking, when the transaction completes, then the system should email a confirmation to the user.
