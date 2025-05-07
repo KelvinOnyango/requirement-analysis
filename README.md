@@ -1,4 +1,4 @@
-# -Requirement Analysis in Software Development.
+# Requirement Analysis in Software Development.
 This repository documents the process of requirement analysis in software projects. It documents how to properly gather, analyze, and document software requirements in order to deliver successfull projects.
 
 ## What is Requirement Analysis?
@@ -48,11 +48,10 @@ These define how the system should perform:
 
    ## Use Case Diagrams
 
-This diagram shows the key interactions in our booking system:
-
-![Booking System Use Case Diagram](## Use Case Diagrams
-
-This diagram shows the key interactions in our booking system:
+Use case diagrams visually represent interactions between users (actors) and system functionalities. They help:
+- Identify system boundaries
+- Show relationships between users and functions
+- Provide a high-level overview of system capabilities
 
 ![Booking System Use Case Diagram](alx-booking-uc.png)
 
@@ -66,19 +65,8 @@ This diagram shows the key interactions in our booking system:
 - Make Booking
 - Cancel Booking
 - Process Payment
-- Manage Users)
-
-**Actors**:
-- Guest: Unregistered users who can browse availability
-- Registered User: Can book, cancel, and pay
-- Admin: Manages user accounts
-
-**Use Cases**:
-- Browse Availability
-- Make Booking
-- Cancel Booking
-- Process Payment
 - Manage Users
+
 
   ## Acceptance Criteria
 
