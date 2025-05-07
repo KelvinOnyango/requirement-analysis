@@ -54,7 +54,7 @@ This diagram shows the key interactions in our booking system:
 
 This diagram shows the key interactions in our booking system:
 
-![Booking System Use Case Diagram](https://drive.google.com/file/d/1N56HRvNN5f066R-_HKxdmcWhFoDsRMCg/view?usp=sharing)
+![Booking System Use Case Diagram](alx-booking-uc.drawio.png)
 
 **Actors**:
 - Guest: Unregistered users who can browse availability
