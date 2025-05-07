@@ -29,3 +29,19 @@ This phase helps ensure that the final product meets business objectives and use
 - **Requirement Analysis and Modeling**: Using tools like use case diagrams, flowcharts, and entity-relationship diagrams to represent requirements visually.
 
 - **Requirement Validation**: Ensuring requirements are complete, consistent, and achievable through reviews and prototyping.
+
+  ## Types of Requirements
+
+### Functional Requirements
+These define what the system should do:
+
+1. **User Registration**: The system shall allow new users to create an account with email and password.
+2. **Booking Creation**: The system shall enable registered users to create new bookings for available time slots.
+3. **Payment Processing**: The system shall process credit card payments for confirmed bookings.
+
+### Non-functional Requirements
+These define how the system should perform:
+
+1. **Performance**: The system shall load booking pages in under 2 seconds for 95% of users.
+2. **Security**: The system shall encrypt all user passwords using bcrypt hashing.
+3. **Availability**: The system shall maintain 99.9% uptime during business hours.
