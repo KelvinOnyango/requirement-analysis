@@ -45,3 +45,37 @@ These define how the system should perform:
 1. **Performance**: The system shall load booking pages in under 2 seconds for 95% of users.
 2. **Security**: The system shall encrypt all user passwords using bcrypt hashing.
 3. **Availability**: The system shall maintain 99.9% uptime during business hours.
+
+   ## Use Case Diagrams
+
+This diagram shows the key interactions in our booking system:
+
+![Booking System Use Case Diagram](## Use Case Diagrams
+
+This diagram shows the key interactions in our booking system:
+
+![Booking System Use Case Diagram](https://drive.google.com/file/d/1N56HRvNN5f066R-_HKxdmcWhFoDsRMCg/view?usp=sharing)
+
+**Actors**:
+- Guest: Unregistered users who can browse availability
+- Registered User: Can book, cancel, and pay
+- Admin: Manages user accounts
+
+**Use Cases**:
+- Browse Availability
+- Make Booking
+- Cancel Booking
+- Process Payment
+- Manage Users)
+
+**Actors**:
+- Guest: Unregistered users who can browse availability
+- Registered User: Can book, cancel, and pay
+- Admin: Manages user accounts
+
+**Use Cases**:
+- Browse Availability
+- Make Booking
+- Cancel Booking
+- Process Payment
+- Manage Users
